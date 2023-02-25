@@ -1,0 +1,364 @@
+{
+    "num": 1,
+    "name": "Mitr\u0101s salv. PEPPINS Everyday 72gab.",
+    "image": "https://cdn.barbora.lv/products/d4295aa6-b500-4513-83dd-e36909c5c331_s.png",
+    "price": "0.69",
+    "link": "https://barbora.lv/produkti/mitras-salv-peppins-everyday-72-gab"
+}
+{
+    "num": 2,
+    "name": "Mitr\u0101s salvetes CLEANIC JUNIOR 15gab.",
+    "image": "https://cdn.barbora.lv/products/ddacc933-569a-4aad-af80-6ad32a5c59a5_s.png",
+    "price": "0.69",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-cleanic-junior-15-gab"
+}
+{
+    "num": 3,
+    "name": "Mitr\u0101s salvetes CLEANIC antibakt. 15gab.",
+    "image": "https://cdn.barbora.lv/products/d7fc9272-0aea-4cf7-917a-bd3f74621c16_s.png",
+    "price": "0.79",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-cleanic-antibakt-15-gab"
+}
+{
+    "num": 4,
+    "name": "Salvetes ELEMENTS 24x24cm 75gab. baltas",
+    "image": "https://cdn.barbora.lv/products/dce0456d-2eb9-4785-a888-91fe23303c1c_s.png",
+    "price": "0.89",
+    "link": "https://barbora.lv/produkti/salvetes-elements-24-x-24-cm-75-gab-baltas"
+}
+{
+    "num": 5,
+    "name": "Salvetes ELEMENTS 24x24cm 75gab.violetas",
+    "image": "https://cdn.barbora.lv/products/cb0bcade-ec6f-4d25-8a49-db0b3dc008e3_s.png",
+    "price": "0.89",
+    "link": "https://barbora.lv/produkti/salvetes-elements-24-x-24-cm-75-gab-violetas"
+}
+{
+    "num": 6,
+    "name": "Salvet.ELEMENTS 24x24cm 75gab. dzeltenas",
+    "image": "https://cdn.barbora.lv/products/1a1cd26c-1c46-4939-bb4b-a7931c0f3854_s.png",
+    "price": "0.89",
+    "link": "https://barbora.lv/produkti/salvet-elements-24-x-24-cm-75-gab-dzeltenas"
+}
+{
+    "num": 7,
+    "name": "Salvetes 33x33cm 20gab.",
+    "image": "https://cdn.barbora.lv/products/a84baf69-e2e2-4c56-98cb-ed8ead2b48a5_s.png",
+    "price": "0.98",
+    "link": "https://barbora.lv/produkti/salvetes-33-x-33-cm-20-gab-74825"
+}
+{
+    "num": 8,
+    "name": "Salvetes FAVORIT 33x33cm 20gab. dzelt.",
+    "image": "https://cdn.barbora.lv/products/c1c353ef-36c1-42ea-9bf4-bb737eaf58da_s.png",
+    "price": "0.98",
+    "link": "https://barbora.lv/produkti/salvetes-favorit-33-x-33-cm-20-gab-dzelt"
+}
+{
+    "num": 9,
+    "name": "Salvetes FAVORIT 33x33cm 20gab. sarkanas",
+    "image": "https://cdn.barbora.lv/products/fae600f9-570b-4870-a54f-f4bc33b88bae_s.png",
+    "price": "0.98",
+    "link": "https://barbora.lv/produkti/salvetes-favorit-33-x-33-cm-20-gab-sarkanas"
+}
+{
+    "num": 10,
+    "name": "Salvetes[33x33cm;3 sl. 20 gab.sortiment.",
+    "image": "https://cdn.barbora.lv/products/d2733e8c-0538-407a-a2c3-e5b97d418c9e_s.png",
+    "price": "0.99",
+    "link": "https://barbora.lv/produkti/salvetes-33-x-33-cm-3-sl-20-gab-sortiment"
+}
+{
+    "num": 11,
+    "name": "Kosm. salvetes FAVORIT 90gab.",
+    "image": "https://cdn.barbora.lv/products/b4723fac-74a9-4153-8cf5-ebf5251d392f_s.png",
+    "price": "1.16",
+    "link": "https://barbora.lv/produkti/kosm-salvetes-favorit-90-gab"
+}
+{
+    "num": 12,
+    "name": "Mitrumu uzs\u016bco\u0161as salv.HOME EXPERT 3gab.",
+    "image": "https://cdn.barbora.lv/products/9ba318d7-176a-44e2-8d31-d670ea7e5b5a_s.png",
+    "price": "1.19",
+    "link": "https://barbora.lv/produkti/mitrumu-uzsucosas-salv-home-expert-3-gab"
+}
+{
+    "num": 13,
+    "name": "Salvetes FAVORIT 33x33cm 20gab. baltas",
+    "image": "https://cdn.barbora.lv/products/edfb6284-9f34-4e14-9e29-c1b01664aab1_s.png",
+    "price": "1.25",
+    "link": "https://barbora.lv/produkti/salvetes-favorit-33-x-33-cm-20-gab-baltas"
+}
+{
+    "num": 14,
+    "name": "Kosm\u0113tisk\u0101s salvetes BLOOM 4sl./100 gab.",
+    "image": "https://cdn.barbora.lv/products/da71ecf3-be36-4f72-8c05-f4d79847278f_s.png",
+    "price": "1.53",
+    "link": "https://barbora.lv/produkti/kosmetiskas-salvetes-bloom-4-sl-100-gab"
+}
+{
+    "num": 15,
+    "name": "Mitr\u0101s salv.FAVORIT jut\u012bgai \u0101dai 80gab.",
+    "image": "https://cdn.barbora.lv/products/20e5e7fc-4b6a-4e41-8371-85193bd183c3_s.png",
+    "price": "1.73",
+    "link": "https://barbora.lv/produkti/mitras-salv-favorit-jutigai-adai-80-gab"
+}
+{
+    "num": 16,
+    "name": "Mitr\u0101s salvetes HUGGIES All Over..56gab.",
+    "image": "https://cdn.barbora.lv/products/8ff86352-c31d-41e8-a35a-b67af7521ffb_s.png",
+    "price": "1.79",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-huggies-all-over-56-gab"
+}
+{
+    "num": 17,
+    "name": "Kabatlakati\u0146i ZEWA Softis 6x9gab.",
+    "image": "https://cdn.barbora.lv/products/164ca3b3-e9ce-4930-a5f0-a4b2c6301760_s.png",
+    "price": "1.89",
+    "link": "https://barbora.lv/produkti/kabatlakatini-zewa-softis-6-x-9-gab"
+}
+{
+    "num": 18,
+    "name": "Mitr\u0101s salv. PEPPINS Sensitive 80gab.",
+    "image": "https://cdn.barbora.lv/products/2663af46-414f-4bed-80b6-49e1e4f71476_s.png",
+    "price": "1.95",
+    "link": "https://barbora.lv/produkti/mitras-salv-peppins-sensitive-80-gab"
+}
+{
+    "num": 19,
+    "name": "Kabatlakati\u0146i FAVORIT 3k\u0101rt. 10x10gab.",
+    "image": "https://cdn.barbora.lv/products/8cc4db69-b83f-4d18-8f83-f123f569c14d_s.png",
+    "price": "1.95",
+    "link": "https://barbora.lv/produkti/kabatlakatini-favorit-3-kart-10-x-10-gab"
+}
+{
+    "num": 20,
+    "name": "Mitr\u0101s salv.CLEANIC Family Antibact.60gb",
+    "image": "https://cdn.barbora.lv/products/f969348f-d069-4d62-9f68-0e61a2042457_s.png",
+    "price": "1.95",
+    "link": "https://barbora.lv/produkti/mitras-salv-cleanic-family-antibact-60-gb"
+}
+{
+    "num": 21,
+    "name": "Salvetes\"Baloni\"(20gab.,33x33cm)",
+    "image": "https://cdn.barbora.lv/products/24c03e4c-a9c2-4258-aae6-cd34757b7835_s.png",
+    "price": "1.97",
+    "link": "https://barbora.lv/produkti/salvetes-baloni-20-gab-33-x-33-cm"
+}
+{
+    "num": 22,
+    "name": "Salvetes CARS 33x33cm",
+    "image": "https://cdn.barbora.lv/products/5b4bec5d-bda1-4034-ac88-59d23fbc4aee_s.png",
+    "price": "1.97",
+    "link": "https://barbora.lv/produkti/salvetes-cars-33-x-33-cm"
+}
+{
+    "num": 23,
+    "name": "Salvetes PRINCESE 20gab. 33x33cm",
+    "image": "https://cdn.barbora.lv/products/72ed9e21-612d-40e5-b66e-ff3e0c50c622_s.png",
+    "price": "1.97",
+    "link": "https://barbora.lv/produkti/salvetes-princese-20-gab-33-x-33-cm"
+}
+{
+    "num": 24,
+    "name": "Salv.MINIONS THE RISE.. 33x33cm 20gab.",
+    "image": "https://cdn.barbora.lv/products/4e0f040b-9550-4b96-b985-64b2c880ce26_s.png",
+    "price": "1.97",
+    "link": "https://barbora.lv/produkti/salv-minions-the-rise-33-x-33-cm-20-gab"
+}
+{
+    "num": 25,
+    "name": "Kosm\u0113tisk\u0101s salvetes SOFTELLA 4k.100gab.",
+    "image": "https://cdn.barbora.lv/products/db4707cd-c594-4157-98c5-630204710a51_s.png",
+    "price": "1.97",
+    "link": "https://barbora.lv/produkti/kosmetiskas-salvetes-softella-4-k-100-gab"
+}
+{
+    "num": 26,
+    "name": "Salvetes int\u012bm.hig.BELLA MEDICA 20gab.",
+    "image": "https://cdn.barbora.lv/products/965efd12-889e-4bc0-a561-03930c5f5fb6_s.png",
+    "price": "1.99",
+    "link": "https://barbora.lv/produkti/salvetes-intim-hig-bella-medica-20-gab"
+}
+{
+    "num": 27,
+    "name": "Univ.mitr.t\u012br.salv. MAYERI Sensit.28gab.",
+    "image": "https://cdn.barbora.lv/products/e3ebca97-77c6-4968-8b44-aa0831c28ee6_s.png",
+    "price": "1.99",
+    "link": "https://barbora.lv/produkti/univ-mitr-tir-salv-mayeri-sensit-28-gab"
+}
+{
+    "num": 28,
+    "name": "Mitr\u0101s salvetes",
+    "image": "https://cdn.barbora.lv/products/ef95669a-71e6-46a6-b883-ff9106966f10_s.png",
+    "price": "2.29",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-36033"
+}
+{
+    "num": 29,
+    "name": "Mitr\u0101s salvetes PAMPERS Sensitive 52gb.",
+    "image": "https://cdn.barbora.lv/products/a71a5904-85c2-498d-8d14-79a3d764c69c_s.png",
+    "price": "2.34",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-pampers-sensitive-52-gb"
+}
+{
+    "num": 30,
+    "name": "Mitr\u0101s salvetes PAMPERS Fresh Clean 52gb",
+    "image": "https://cdn.barbora.lv/products/89ca4833-4b37-479f-b9f8-0c020f12f5ab_s.png",
+    "price": "2.34",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-pampers-fresh-clean-52-gb"
+}
+{
+    "num": 31,
+    "name": "Pap\u012bra kabatlakati\u0146i SOFTELLA 4k.10x10gb",
+    "image": "https://cdn.barbora.lv/products/a65b48c1-d308-49bb-bb17-c84857651303_s.png",
+    "price": "2.34",
+    "link": "https://barbora.lv/produkti/papira-kabatlakatini-softella-4-k-10-x-10-gb"
+}
+{
+    "num": 32,
+    "name": "Pieni\u0146\u0161 ZELENAYA APTEKA int\u012bm.hig. 370ml",
+    "image": "https://cdn.barbora.lv/products/f66a0632-d4f6-427d-8440-bd71aef419b2_s.png",
+    "price": "2.39",
+    "link": "https://barbora.lv/produkti/pienins-zelenaya-apteka-intim-hig-370-ml"
+}
+{
+    "num": 33,
+    "name": "Pieni\u0146\u0161 ZELENAYA APTEKA int.higi\u0113n.370ml",
+    "image": "https://cdn.barbora.lv/products/2ac88562-80c4-48d6-85fc-ebbe64085005_s.png",
+    "price": "2.39",
+    "link": "https://barbora.lv/produkti/pienins-zelenaya-apteka-int-higien-370-ml"
+}
+{
+    "num": 34,
+    "name": "Mitr\u0101s salvetes HUGGIES Pure 56gab.",
+    "image": "https://cdn.barbora.lv/products/49298dbf-515f-4449-89e7-5f9e98a3b3ee_s.png",
+    "price": "2.44",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-huggies-pure-56-gab"
+}
+{
+    "num": 35,
+    "name": "Mitr\u0101s salv.PRESTO univers. magn. 72 gab",
+    "image": "https://cdn.barbora.lv/products/902fcea9-d414-432f-9221-6047ab1111f6_s.png",
+    "price": "2.59",
+    "link": "https://barbora.lv/produkti/mitras-salv-presto-univers-magn-72-gab"
+}
+{
+    "num": 36,
+    "name": "Mitr\u0101s salvetes PRESTO virtuvei 72gab.",
+    "image": "https://cdn.barbora.lv/products/999a0823-296e-436e-9be7-9e1c4910f51a_s.png",
+    "price": "2.59",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-presto-virtuvei-72-gab"
+}
+{
+    "num": 37,
+    "name": "Maska GARNIER Moisture nakts salvete",
+    "image": "https://cdn.barbora.lv/products/50ffd1f6-2722-4292-8b93-9ed4740820ce_s.png",
+    "price": "2.65",
+    "link": "https://barbora.lv/produkti/maska-garnier-moisture-nakts-salvete"
+}
+{
+    "num": 38,
+    "name": "Maska GARNIER Hyaluronic Aloe salvete",
+    "image": "https://cdn.barbora.lv/products/9da08d1c-2d89-41c3-aa19-9c48070619f9_s.png",
+    "price": "2.65",
+    "link": "https://barbora.lv/produkti/maska-garnier-hyaluronic-aloe-salvete"
+}
+{
+    "num": 39,
+    "name": "Salv.pret ap\u0123.sakr\u0101s.REPSUN Effect20gab.",
+    "image": "https://cdn.barbora.lv/products/4e2480a0-6958-4d50-b284-8b92d70fbd82_s.png",
+    "price": "2.68",
+    "link": "https://barbora.lv/produkti/salv-pret-apg-sakras-repsun-effect-20-gab"
+}
+{
+    "num": 40,
+    "name": "Kosm.salvetes ZEWA Soft Sensitive 80gab.",
+    "image": "https://cdn.barbora.lv/products/3ebe486d-0517-45ef-899c-5b7f8a50974b_s.png",
+    "price": "2.89",
+    "link": "https://barbora.lv/produkti/kosm-salvetes-zewa-soft-sensitive-80-gab"
+}
+{
+    "num": 41,
+    "name": "Kabatlak.ZEWA Softis Menthol 10x9gab.",
+    "image": "https://cdn.barbora.lv/products/431673c1-377a-40a4-b323-894f391cd4a9_s.png",
+    "price": "2.89",
+    "link": "https://barbora.lv/produkti/kabatlak-zewa-softis-menthol-10-x-9-gab"
+}
+{
+    "num": 42,
+    "name": "Mitr\u0101s salvetes HUGGIES\u00a0Natural 48gab.",
+    "image": "https://cdn.barbora.lv/products/e0a339b4-c92d-41ea-bcb9-dcd96bc2cd74_s.png",
+    "price": "2.93",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-huggies-natural-48-gab"
+}
+{
+    "num": 43,
+    "name": "Mitr\u0101s salv. HAPPY Aqua 99% Care 56gab.",
+    "image": "https://cdn.barbora.lv/products/40801f6d-18a5-4529-b49a-621e398bcc9e_s.png",
+    "price": "2.99",
+    "link": "https://barbora.lv/produkti/mitras-salv-happy-aqua-99-proc-care-56-gab"
+}
+{
+    "num": 44,
+    "name": "Ampulu maska-salvete GARNIER att\u012bro\u0161\u0101",
+    "image": "https://cdn.barbora.lv/products/978bfba7-ab63-47f0-af06-95a0fcd99c5d_s.png",
+    "price": "2.99",
+    "link": "https://barbora.lv/produkti/ampulu-maska-salvete-garnier-attirosa"
+}
+{
+    "num": 45,
+    "name": "Ampulu maska-salvete GARNIER nostiprin.",
+    "image": "https://cdn.barbora.lv/products/cc06a27c-4941-4306-bbc0-216c221387f0_s.png",
+    "price": "2.99",
+    "link": "https://barbora.lv/produkti/ampulu-maska-salvete-garnier-nostiprin"
+}
+{
+    "num": 46,
+    "name": "Ampulu maska-salvete GARNIER nogur.",
+    "image": "https://cdn.barbora.lv/products/4b0e4b16-120f-4196-a3f4-22d921e717a8_s.png",
+    "price": "2.99",
+    "link": "https://barbora.lv/produkti/ampulu-maska-salvete-garnier-nogur"
+}
+{
+    "num": 47,
+    "name": "Mitr.salvetes CLEANIC Clean&Fresh 200gb.",
+    "image": "https://cdn.barbora.lv/products/c5ec9983-c536-4449-bd2c-46496f5ccab7_s.png",
+    "price": "2.99",
+    "link": "https://barbora.lv/produkti/mitr-salvetes-cleanic-clean-fresh-200-gb"
+}
+{
+    "num": 48,
+    "name": "Mitr\u0101s salvetes BUBCHEN Sensitive 52gab.",
+    "image": "https://cdn.barbora.lv/products/921c6dbd-aeff-4114-b052-330136d309c2_s.png",
+    "price": "3.04",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-bubchen-sensitive-52-gab"
+}
+{
+    "num": 49,
+    "name": "Mitr.salv. HUGGIES Natural Care 56gab.",
+    "image": "https://cdn.barbora.lv/products/ed386477-5d34-4445-9780-1e02e236299d_s.png",
+    "price": "3.09",
+    "link": "https://barbora.lv/produkti/mitr-salv-huggies-natural-care-56-gab"
+}
+{
+    "num": 50,
+    "name": "Mitr\u0101s salvetes PAMPERS Sensitive 80gb.",
+    "image": "https://cdn.barbora.lv/products/215a9a40-c30d-451e-97b7-4f4216fbe73b_s.png",
+    "price": "3.13",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-pampers-sensitive-80-gb"
+}
+{
+    "num": 51,
+    "name": "Paladzi\u0146i HAPPY b\u0113rniem  60x90cm 5gab.",
+    "image": "https://cdn.barbora.lv/products/44b51717-9d65-45c7-bd21-be1eee0ad1c1_s.png",
+    "price": "3.16",
+    "link": "https://barbora.lv/produkti/paladzini-happy-berniem-60-x-90-cm-5-gab"
+}
+{
+    "num": 52,
+    "name": "Mitr\u0101s salvetes PAMPERS Fresh Clean 80gb",
+    "image": "https://cdn.barbora.lv/products/d65a4083-b5ff-4da9-82bc-aa4208062ec8_s.png",
+    "price": "3.22",
+    "link": "https://barbora.lv/produkti/mitras-salvetes-pampers-fresh-clean-80-gb"
+}

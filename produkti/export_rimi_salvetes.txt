@@ -1,0 +1,560 @@
+{
+    "num": 1,
+    "name": "Kabatlakati\u0146i Rimi 4sl\u0101\u0146i, 1x9gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_812933_PCE_LV",
+    "price": "0.25",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-rimi-4slani-1x9gab-/p/812933"
+}
+{
+    "num": 2,
+    "name": "Koka instrumentu komplekts RIMI BASIC ar",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7232792_PCE_LV",
+    "price": "0.45",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/trauki-un-galda-piederumi/koka-instrumentu-komplekts-rimi-basic-ar/p/7232792"
+}
+{
+    "num": 3,
+    "name": "Atsvaidzino\u0161\u0101s salvetes Almeda 15gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_814026_PCE_LV",
+    "price": "0.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/majas-aptiecina/mitras-salvetes/atsvaidzinosas-salvetes-almeda-15gab/p/814026"
+}
+{
+    "num": 4,
+    "name": "Mitr\u0101s salvetes Loving Touch Economy 72 gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_807280_PCE_LV",
+    "price": "0.69",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/mitras-salvetes/mitras-salvetes-loving-touch-economy-72-gab-/p/807280"
+}
+{
+    "num": 5,
+    "name": "Mitr\u0101s salv. Almeda Bubble Gum 15gb",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_814249_PCE_LV",
+    "price": "0.69",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/majas-aptiecina/mitras-salvetes/mitras-salv-almeda-bubble-gum-15gb/p/814249"
+}
+{
+    "num": 6,
+    "name": "Salv. Almeda Normal and Mix Skin 10gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_813587_PCE_LV",
+    "price": "0.72",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/sejas-kopsana/kosmetikas-nonemsanas-un-sejas-tirisanas-lidzekli/salv-almeda-normal-and-mix-skin-10gab-/p/813587"
+}
+{
+    "num": 7,
+    "name": "Mistr.salvet.int\u012bm.higi\u0113n Simpatic 20gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_813965_PCE_LV",
+    "price": "0.90",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/intima-higiena/intimas-kopsanas-zelejas-salvetes/mistr-salvet-intim-higien-simpatic-20gab/p/813965"
+}
+{
+    "num": 8,
+    "name": "Mitr\u0101s salvetes Cleanic Aniseptic 15gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_789417_PCE_LV",
+    "price": "0.94",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/majas-aptiecina/mitras-salvetes/mitras-salvetes-cleanic-aniseptic-15gab-/p/789417"
+}
+{
+    "num": 9,
+    "name": "Kosm\u0113tisk\u0101s salvetes Rimi Basic,2sl,80gb",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_804323_PCE_LV",
+    "price": "1.15",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kosmetiskas-salvetes-rimi-basic-2sl-80gb/p/804323"
+}
+{
+    "num": 10,
+    "name": "Salvetes za\u013cas 50gab 33x33cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7198935_PCE_LV",
+    "price": "1.19",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-zalas-50gab-33x33cm/p/7198935"
+}
+{
+    "num": 11,
+    "name": "Salvetes burgundija 50gab 33x33cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7198943_PCE_LV",
+    "price": "1.19",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-burgundija-50gab-33x33cm/p/7198943"
+}
+{
+    "num": 12,
+    "name": "Salvetes gai\u0161i zilas 33x33 50gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236839_PCE_LV",
+    "price": "1.19",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-gaisi-zilas-33x33-50gab/p/7236839"
+}
+{
+    "num": 13,
+    "name": "Salvetes persika 33x33 50gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236846_PCE_LV",
+    "price": "1.19",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-persika-33x33-50gab/p/7236846"
+}
+{
+    "num": 14,
+    "name": "Salvetes pel\u0113kas 33x33 50gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236847_PCE_LV",
+    "price": "1.19",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-pelekas-33x33-50gab/p/7236847"
+}
+{
+    "num": 15,
+    "name": "Salvetes zilas 33x33 50gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236850_PCE_LV",
+    "price": "1.19",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-zilas-33x33-50gab/p/7236850"
+}
+{
+    "num": 16,
+    "name": "Salvetes \u0161ampa\u0146a 33x33 50gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236851_PCE_LV",
+    "price": "1.19",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-sampana-33x33-50gab/p/7236851"
+}
+{
+    "num": 17,
+    "name": "Salvetes gai\u0161i dzeltenas 33x33 50gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236853_PCE_LV",
+    "price": "1.19",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-gaisi-dzeltenas-33x33-50gab/p/7236853"
+}
+{
+    "num": 18,
+    "name": "Salvetes baltas 100gab 24x24cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7217288_PCE_LV",
+    "price": "1.29",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-baltas-100gab-24x24cm/p/7217288"
+}
+{
+    "num": 19,
+    "name": "Salvetes melnas 100gab 24x24cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7212215_PCE_LV",
+    "price": "1.29",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-melnas-100gab-24x24cm/p/7212215"
+}
+{
+    "num": 20,
+    "name": "Int\u012bm.h.g\u0113ls Simpatic kumel.ekstr. 300ml",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_813879_PCE_LV",
+    "price": "1.29",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/intima-higiena/intimas-kopsanas-zelejas-salvetes/intim-h-gels-simpatic-kumel-ekstr-300ml/p/813879"
+}
+{
+    "num": 21,
+    "name": "Mitr\u0101s salvetes Loving touch 72gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_801672_PCE_LV",
+    "price": "1.34",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/mitras-salvetes/mitras-salvetes-loving-touch-72gab-/p/801672"
+}
+{
+    "num": 22,
+    "name": "Kabatlakati\u0146i Rimi Basic 3sl\u0101\u0146i 10x6gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_804324_PCE_LV",
+    "price": "1.39",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-rimi-basic-3slani-10x6gab-/p/804324"
+}
+{
+    "num": 23,
+    "name": "Maska-salvete ac\u012bm Garnier ar apels\u012bnu sulu",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7188652_PCE_LV",
+    "price": "1.40",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/sejas-kopsana/sejas-maskas/maska-salvete-acim-garnier-ar-apelsinu-sulu/p/7188652"
+}
+{
+    "num": 24,
+    "name": "Univers\u0101l\u0101s salvetes Clerit 80 gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_801666_PCE_LV",
+    "price": "1.49",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/virtuves-vannasistabas-un-universalie-tirisanas-lidzekli/universalas-salvetes-clerit-80-gab-/p/801666"
+}
+{
+    "num": 25,
+    "name": "Mitr\u0101s salvetes Clerit Magnolia univ. 80gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_812910_PCE_LV",
+    "price": "1.49",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/virtuves-vannasistabas-un-universalie-tirisanas-lidzekli/mitras-salvetes-clerit-magnolia-univ-80gab-/p/812910"
+}
+{
+    "num": 26,
+    "name": "Kabatlakati\u0146i Rimi kumel\u012b\u0161u 4 sl.,6x9gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_812945_PK_LV",
+    "price": "1.55",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-rimi-kumelisu-4-sl-6x9gab/p/812945"
+}
+{
+    "num": 27,
+    "name": "Salvetes pel\u0113kas 1/8 saliekam\u0101s, 33x33cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236848_PCE_LV",
+    "price": "1.55",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-pelekas-1-8-saliekamas-33x33cm/p/7236848"
+}
+{
+    "num": 28,
+    "name": "Salvetes zilas 1/8 saliekam\u0101s, 33x33cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236852_PCE_LV",
+    "price": "1.55",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-zilas-1-8-saliekamas-33x33cm/p/7236852"
+}
+{
+    "num": 29,
+    "name": "Salvetes \u0161ampa\u0146a 1/8 saliekam\u0101s, 33x33cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236854_PCE_LV",
+    "price": "1.55",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-sampana-1-8-saliekamas-33x33cm/p/7236854"
+}
+{
+    "num": 30,
+    "name": "Salvetes baltas 1/8 saliekam\u0101s, 33x33cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236855_PCE_LV",
+    "price": "1.55",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-baltas-1-8-saliekamas-33x33cm/p/7236855"
+}
+{
+    "num": 31,
+    "name": "Salvetes sarkanas 1/8 saliekam\u0101s 33x33cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236856_PCE_LV",
+    "price": "1.55",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-sarkanas-1-8-saliekamas-33x33cm/p/7236856"
+}
+{
+    "num": 32,
+    "name": "Kabatlakati\u0146i Rimi Mint 4sl.,6x9gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_813506_PCE_LV",
+    "price": "1.55",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-rimi-mint-4sl-6x9gab/p/813506"
+}
+{
+    "num": 33,
+    "name": "Mitr\u0101s salvetes Loving Touch Sensitive 72gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_804864_PCE_LV",
+    "price": "1.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/mitras-salvetes/mitras-salvetes-loving-touch-sensitive-72gab-/p/804864"
+}
+{
+    "num": 34,
+    "name": "Salvetes baltas 100gab 33x33cm",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7198944_PCE_LV",
+    "price": "1.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-baltas-100gab-33x33cm/p/7198944"
+}
+{
+    "num": 35,
+    "name": "Int\u012bm\u0101s hig. mitr\u0101s salv. Simpatic 20gb",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_814240_PCE_LV",
+    "price": "1.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/intima-higiena/intimas-kopsanas-zelejas-salvetes/intimas-hig-mitras-salv-simpatic-20gb/p/814240"
+}
+{
+    "num": 36,
+    "name": "Kosm\u0113tisk\u0101s salvetes Rimi 4sl,100 gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_801000_PCE_LV",
+    "price": "1.61",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kosmetiskas-salvetes-rimi-4sl-100-gab/p/801000"
+}
+{
+    "num": 37,
+    "name": "Mitr\u0101s salvetes ICA gr\u012bdai 20gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_809417_PCE_LV",
+    "price": "NaN",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/gridas-tirisanas-lidzekli/mitras-salvetes-ica-gridai-20gab-/p/809417"
+}
+{
+    "num": 38,
+    "name": "Salvetes 25X25CM DOTS ROSA",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7237135_PCE_LV",
+    "price": "1.69",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-25x25cm-dots-rosa/p/7237135"
+}
+{
+    "num": 39,
+    "name": "Mit.salv. Huggies AllOverClean univ,56gb",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7114431_PCE_LV",
+    "price": "1.79",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/mitras-salvetes/mit-salv-huggies-alloverclean-univ-56gb/p/7114431"
+}
+{
+    "num": 40,
+    "name": "Salvetes 33x33CM GLAM CATS",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7237087_PCE_LV",
+    "price": "NaN",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-33x33cm-glam-cats/p/7237087"
+}
+{
+    "num": 41,
+    "name": "Salvetes 33x33CM LACY FRAME BLACK",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7237140_PCE_LV",
+    "price": "1.89",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-33x33cm-lacy-frame-black/p/7237140"
+}
+{
+    "num": 42,
+    "name": "Mitr\u0101s salvetes Clerit koka m\u0113bel\u0113m 36gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_812911_PCE_LV",
+    "price": "1.99",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/citi-tirisanas-lidzekli/mitras-salvetes-clerit-koka-mebelem-36gab-/p/812911"
+}
+{
+    "num": 43,
+    "name": "Mitr\u0101s salvetes Clerit virtuvei 36gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_812925_PCE_LV",
+    "price": "1.99",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/virtuves-vannasistabas-un-universalie-tirisanas-lidzekli/mitras-salvetes-clerit-virtuvei-36gab-/p/812925"
+}
+{
+    "num": 44,
+    "name": "Mitr\u0101s salvetes Clerit vannas istabai 36gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_812926_PCE_LV",
+    "price": "1.99",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/virtuves-vannasistabas-un-universalie-tirisanas-lidzekli/mitras-salvetes-clerit-vannas-istabai-36gab-/p/812926"
+}
+{
+    "num": 45,
+    "name": "Mitr\u0101s salvetes Clerit stiklam 36gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_812930_PCE_LV",
+    "price": "1.99",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/stikla-tirisanas-lidzekli/mitras-salvetes-clerit-stiklam-36gab-/p/812930"
+}
+{
+    "num": 46,
+    "name": "Mitr\u0101s salvetes Cleanic Aniseptic 40gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7229558_PCE_LV",
+    "price": "2.09",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/majas-aptiecina/mitras-salvetes/mitras-salvetes-cleanic-aniseptic-40gab-/p/7229558"
+}
+{
+    "num": 47,
+    "name": "Kabatlakati\u0146i Happy 9x10 GAB",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7212583_PCE_LV",
+    "price": "2.09",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-happy-9x10-gab/p/7212583"
+}
+{
+    "num": 48,
+    "name": "Auti\u0146biks\u012b\u0161u maisi Paklanki 50gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7192343_PCE_LV",
+    "price": "2.09",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/paladzini/autinbiksisu-maisi-paklanki-50gab-/p/7192343"
+}
+{
+    "num": 49,
+    "name": "Mit. sal. bri\u013c\u013cu t\u012br. Maxi Clean 52 gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7268882_PCE_LV",
+    "price": "2.09",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/majas-aptiecina/mit-sal-brillu-tir-maxi-clean-52-gab-/p/7268882"
+}
+{
+    "num": 50,
+    "name": "Micel\u0101ras salvetes Evoluderm 25gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7272632_PCE_LV",
+    "price": "2.09",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/sejas-kopsana/kosmetikas-nonemsanas-un-sejas-tirisanas-lidzekli/micelaras-salvetes-evoluderm-25gab-/p/7272632"
+}
+{
+    "num": 51,
+    "name": "Galda salvetes 40X40CM INSPIRATION GREY",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7237085_PCE_LV",
+    "price": "NaN",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/galda-salvetes-40x40cm-inspiration-grey/p/7237085"
+}
+{
+    "num": 52,
+    "name": "Galda salvetes 40X40CM INSPIRATION RED",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7237089_PCE_LV",
+    "price": "2.15",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/galda-salvetes-40x40cm-inspiration-red/p/7237089"
+}
+{
+    "num": 53,
+    "name": "Galda salvetes 40X40CM INSPIRATION PINK",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7237144_PCE_LV",
+    "price": "2.15",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/galda-salvetes-40x40cm-inspiration-pink/p/7237144"
+}
+{
+    "num": 54,
+    "name": "Salvetes 33X33CM LINEN STRUCTURE GREY",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7237145_PCE_LV",
+    "price": "2.25",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-33x33cm-linen-structure-grey/p/7237145"
+}
+{
+    "num": 55,
+    "name": "Kabatlakati\u0146i Zewa Softis, 4sl., 6x9gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7221477_PCE_LV",
+    "price": "2.29",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-zewa-softis-4sl-6x9gab/p/7221477"
+}
+{
+    "num": 56,
+    "name": "Kabatlakati\u0146i Zewa Soft&Sensitive 6x9gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7170525_PCE_LV",
+    "price": "2.29",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-zewa-soft-sensitive-6x9gab/p/7170525"
+}
+{
+    "num": 57,
+    "name": "Kr\u0101su absorb\u0113jo\u0161\u0101s salv. Clerit 20gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_813651_PCE_LV",
+    "price": "2.29",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/mazgasanas-lidzekli/krasu-keraji/krasu-absorbejosas-salv-clerit-20gab-/p/813651"
+}
+{
+    "num": 58,
+    "name": "Kosm\u0113tisk.salvet. Zewa Kids box,3sl,60gb",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7128902_PCE_LV",
+    "price": "2.39",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kosmetisk-salvet-zewa-kids-box-3sl-60gb/p/7128902"
+}
+{
+    "num": 59,
+    "name": "M. salvetes Pampers Fresh Clean 52 gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7221509_PCE_LV",
+    "price": "2.39",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/mitras-salvetes/m-salvetes-pampers-fresh-clean-52-gab/p/7221509"
+}
+{
+    "num": 60,
+    "name": "Mitr\u0101s salvetes Pampers Sensitive 52 gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7221513_PCE_LV",
+    "price": "2.39",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/mitras-salvetes/mitras-salvetes-pampers-sensitive-52-gab/p/7221513"
+}
+{
+    "num": 61,
+    "name": "Dek. pap\u012bra salvetes 12gab baltas Zenker",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7168510_PCE_LV",
+    "price": "2.39",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/virtuvei/edienu-gatavosanas-piederumi/dek-papira-salvetes-12gab-baltas-zenker/p/7168510"
+}
+{
+    "num": 62,
+    "name": "Kabatlakati\u0146i Zewa Delux Aroma,3sl,60gb",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7212609_PCE_LV",
+    "price": "2.49",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-zewa-delux-aroma-3sl-60gb/p/7212609"
+}
+{
+    "num": 63,
+    "name": "Salvetes 33cm vk Granite Grey (20)",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236877_PCE_LV",
+    "price": "2.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-33cm-vk-granite-grey-20-/p/7236877"
+}
+{
+    "num": 64,
+    "name": "Salvetes 33cm vk Mellow Rose (20)",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236878_PCE_LV",
+    "price": "2.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-33cm-vk-mellow-rose-20-/p/7236878"
+}
+{
+    "num": 65,
+    "name": "Salvetes 33cm vk Cream (20)",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236893_PCE_LV",
+    "price": "2.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-33cm-vk-cream-20-/p/7236893"
+}
+{
+    "num": 66,
+    "name": "Salvetes 33cm vk Plum (20)",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236894_PCE_LV",
+    "price": "2.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-33cm-vk-plum-20-/p/7236894"
+}
+{
+    "num": 67,
+    "name": "Salvetes 33cm vk Ocean Teal (20)",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236896_PCE_LV",
+    "price": "2.59",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-33cm-vk-ocean-teal-20-/p/7236896"
+}
+{
+    "num": 68,
+    "name": "Mitr\u0101s salvetes PAMPERS HYGIENE,40gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7250439_PCE_LV",
+    "price": "2.69",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/mitras-salvetes/mitras-salvetes-pampers-hygiene-40gab-/p/7250439"
+}
+{
+    "num": 69,
+    "name": "Balin. salv. baltai ve\u013cai Clerit 20gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_813657_PCE_LV",
+    "price": "2.79",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/sadzives-kimija/mazgasanas-lidzekli/krasu-keraji/balin-salv-baltai-velai-clerit-20gab-/p/813657"
+}
+{
+    "num": 70,
+    "name": "Mitr\u0101s salvetes Pampers Aqua Pure 48gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7203820_PCE_LV",
+    "price": "2.85",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/zidainiem-un-berniem/mitras-salvetes-un-paladzini/mitras-salvetes/mitras-salvetes-pampers-aqua-pure-48gab/p/7203820"
+}
+{
+    "num": 71,
+    "name": "Kosm\u0113tisk\u0101s salvet. Zewa Softis,4sl,80gb",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_779782_PCE_LV",
+    "price": "2.89",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kosmetiskas-salvet-zewa-softis-4sl-80gb/p/779782"
+}
+{
+    "num": 72,
+    "name": "Kabatlakati\u0146i Zewa Soft&Sensitiv 10x9gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7170536_PCE_LV",
+    "price": "2.89",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-zewa-soft-sensitiv-10x9gab/p/7170536"
+}
+{
+    "num": 73,
+    "name": "Kabatlakati\u0146i Zewa Softis, 4sl., 10x9gab",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7221478_PCE_LV",
+    "price": "2.89",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/kabatlakatini-zewa-softis-4sl-10x9gab/p/7221478"
+}
+{
+    "num": 74,
+    "name": "Salvet.sejai Zewa Soft&Sensitiv,4sl,80gb",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7170535_PCE_LV",
+    "price": "NaN",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/papira-produkti/kosmetiskas-salvetes-un-kabatas-lakatini/salvet-sejai-zewa-soft-sensitiv-4sl-80gb/p/7170535"
+}
+{
+    "num": 75,
+    "name": "Maska Nutri Bomb ar kokosriekstu pienu 32g",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7235127_PCE_LV",
+    "price": "2.89",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/sejas-kopsana/sejas-maskas/maska-nutri-bomb-ar-kokosriekstu-pienu-32g/p/7235127"
+}
+{
+    "num": 76,
+    "name": "Sejas \u0101das maska Garnier Moisture+ 32g",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7235128_PCE_LV",
+    "price": "2.89",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/sejas-kopsana/sejas-maskas/sejas-adas-maska-garnier-moisture-32g/p/7235128"
+}
+{
+    "num": 77,
+    "name": "Mitrino\u0161a maska Garnier SN Hyal. Aloe 32g",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7235130_PCE_LV",
+    "price": "2.89",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/sejas-kopsana/sejas-maskas/mitrinosa-maska-garnier-sn-hyal-aloe-32g/p/7235130"
+}
+{
+    "num": 78,
+    "name": "Salvetes Grace cream 33cm 20gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7086605_PCE_LV",
+    "price": "2.95",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/salvetes-grace-cream-33cm-20gab-/p/7086605"
+}
+{
+    "num": 79,
+    "name": "Int\u012bm\u0101s hig. salvetes Libresse, 12 gab.",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7238525_PCE_LV",
+    "price": "2.95",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/skaistumkopsanai-un-higienai/intima-higiena/intimas-kopsanas-zelejas-salvetes/intimas-hig-salvetes-libresse-12-gab-/p/7238525"
+}
+{
+    "num": 80,
+    "name": "Galdauts DC 84x84cm Charm Cream",
+    "image": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_216,q_auto,w_216/d_ecommerce:backend-fallback.png/MAT_7236910_PCE_LV",
+    "price": "2.95",
+    "link": "https://www.rimi.lv/e-veikals/lv/produkti/majai-darzam-un-atputai/vienreizejas-lietosanas-preces/salvetes-un-galdauti/galdauts-dc-84x84cm-charm-cream/p/7236910"
+}
